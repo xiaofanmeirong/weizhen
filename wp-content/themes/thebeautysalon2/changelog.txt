@@ -1,0 +1,13 @@
+/***********************************************/
+/*                 Version 2.8                 */
+/***********************************************/
+
+- Open in new window support for buttons
+- Tab Feature bug fixed
+- Google map icons in widgets displayed correctly
+- Map text in widget fixed
+- Logo Alt text can now be specified
+- Post metadata can be switched on/off on list pages
+- Fixed favicon issues
+- Sidebar text and link colors now work as expected
+
